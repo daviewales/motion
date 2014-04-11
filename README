@@ -5,6 +5,10 @@ and Folkert van Heusden (http://www.vanheusden.com/).
 From 3.1.12 Motion is project managed by Kenneth Lavrsen and maintained by
 a large number of people.
 
+This fork was created by David Wales, and will periodically pull changes from upstream.
+The purpose of this fork is to create something which sends coordinates of motion to a
+remote database for logging, history, heatmaps, etc.
+
 See the file CREDITS for the list of people having made contributions to the
 Motion code.
 
